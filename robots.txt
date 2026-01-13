@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://rutansh.in/sitemap.xml
+Sitemap: https://swamirutvik9-del.github.io/rutansh-temp/sitemap.xml
