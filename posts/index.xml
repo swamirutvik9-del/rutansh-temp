@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rutansh</title>
+    <link>https://rutansh.in/posts/</link>
+    <description>Recent content in Posts on Rutansh</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sat, 18 Jan 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="https://rutansh.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Rutansh</title>
+      <link>https://rutansh.in/posts/why-rutansh/</link>
+      <pubDate>Sat, 18 Jan 2025 10:00:00 +0530</pubDate>
+      <guid>https://rutansh.in/posts/why-rutansh/</guid>
+      <description>&lt;p&gt;This is not a blog.&lt;/p&gt;&#xA;&lt;p&gt;This is a record of thought.&lt;/p&gt;&#xA;&lt;p&gt;Rutansh exists because silence helps no one,&lt;br&gt;&#xA;and noise solves nothing.&lt;/p&gt;&#xA;&lt;p&gt;This space is for clarity, responsibility,&lt;br&gt;&#xA;and long-term thinking — for Bharat.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
